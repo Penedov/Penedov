@@ -6,7 +6,7 @@
 
 Building my path in software development with a current focus on **Java, Spring Boot, SQL and PostgreSQL**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius%20Penedo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-penedo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius%20Penedo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-penedo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-vini-one.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Penedov-181717?style=flat&logo=github&logoColor=white)](https://github.com/Penedov)
 
