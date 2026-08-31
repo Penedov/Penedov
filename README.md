@@ -1,122 +1,112 @@
 <div align="center">
 
-```
-██╗   ██╗██╗███╗   ██╗██╗ ██████╗██╗██╗   ██╗███████╗
-██║   ██║██║████╗  ██║██║██╔════╝██║██║   ██║██╔════╝
-██║   ██║██║██╔██╗ ██║██║██║     ██║██║   ██║███████╗
-╚██╗ ██╔╝██║██║╚██╗██║██║██║     ██║██║   ██║╚════██║
- ╚████╔╝ ██║██║ ╚████║██║╚██████╗██║╚██████╔╝███████║
-  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝ ╚═════╝ ╚══════╝
-```
+# Vinicius Santos Penedo
 
-# Hey there, I'm **Vinicius Penedo** 👋
+### Software Development Student | Backend Focus
 
-### Full-Stack Developer · Based in Brazil 🇧🇷
+Building my path in software development with a current focus on **Java, Spring Boot, SQL and PostgreSQL**.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=JavaScript+%7C+Python+%7C+React+Developer;Building+efficient+and+scalable+solutions;Always+learning%2C+always+evolving+🚀)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=penedo-v&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinicius%20Penedo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-penedo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-vini-one.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Penedov-181717?style=flat&logo=github&logoColor=white)](https://github.com/Penedov)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About me
 
-```javascript
-const vinicius = {
-  name: "Vinicius S. Penedo",
-  location: "Brazil 🇧🇷",
-  role: "Full-Stack Developer",
-  email: "Viniciuspenedo2003@gmail.com",
+I'm a **Systems Analysis and Development student at FATEC Ipiranga** and a graduate of the **Technical Program in Systems Development at ETEC**.
 
-  skills: {
-    frontend:  ["React", "Next.js", "HTML5", "CSS3", "JavaScript"],
-    backend:   ["Node.js", "PHP", "Laravel", "Python"],
-    databases: ["MySQL", "MongoDB"],
-    tools:     ["Git", "Arduino", "Power BI"],
-  },
+My current goal is to start my professional career in technology as a **Software Development Intern or Junior Developer**, with a strong interest in **backend development**.
 
-  currentlyLearning: ["Next.js", "Power BI", "Advanced Algorithms"],
-  funFact: "I'm not a programmer... but I will be soon 😄",
-  openToWork: true,
-};
-```
+I am strengthening my foundations through academic work, personal study and practical repositories, focusing on clean logic, object-oriented programming, relational databases, APIs and version control.
+
+- 🎓 Systems Analysis and Development — **FATEC Ipiranga**
+- 🎓 Technical Degree in Systems Development — **ETEC**
+- 🎯 Current focus: **Java Backend Development**
+- 💼 Open to: **Internship and Junior opportunities**
+- 📍 São Paulo, Brazil
 
 ---
 
-## 🚀 What I Do
+## Main stack
 
-- 🎯 **Specialized in** JavaScript, Python, React & PHP
-- 🔗 **I love** combining backend & frontend for complete, impactful solutions
-- 📊 **Currently expanding** into data analysis with Power BI
-- 💡 **Always looking** for new technologies to stay sharp
-- 🤝 **Ready** to take on new challenges and collaborate
+### Backend & Programming
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square)
 
-## 🛠️ Tech Stack
+### Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+`REST APIs` · `Object-Oriented Programming (OOP)` · `Scrum` · `Kanban`
 
 ---
 
-## 📊 GitHub Stats
+## Currently improving
+
+I'm currently strengthening my knowledge in:
+
+- **Java and Object-Oriented Programming**
+- **Spring Boot and REST APIs**
+- **SQL and PostgreSQL**
+- **Git and GitHub workflows**
+- Backend application structure and good development practices
+
+My next goal is to turn these studies into complete backend projects that can demonstrate my progress publicly.
+
+---
+
+## Current repositories
+
+### [Algoritmos-Java](https://github.com/Penedov/Algoritmos-Java)
+Repository for practicing **Java, programming logic and algorithms** through exercises and academic activities.
+
+### [portfolio_vini](https://github.com/Penedov/portfolio_vini)
+My personal portfolio, developed as a practical web project and published with **Vercel**.
+
+### [PAMII-Vini-Penedo](https://github.com/Penedov/PAMII-Vini-Penedo)
+Academic repository with **mobile development exercises**, including work with React Native and JavaScript/TypeScript.
+
+> More backend projects with Java, Spring Boot and PostgreSQL are in my development roadmap.
+
+---
+
+## What I'm looking for
+
+I'm looking for my first opportunity in software development where I can:
+
+- Apply and improve my backend development skills
+- Learn from experienced developers
+- Work with real software development processes
+- Contribute to a team while continuing to grow technically
+
+**Target roles:** Software Development Internship · Backend Development Internship · Junior Software Developer
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/vinicius-penedo](https://www.linkedin.com/in/vinicius-penedo/)
+- Portfolio: [portfolio-vini-one.vercel.app](https://portfolio-vini-one.vercel.app)
+- GitHub: [github.com/Penedov](https://github.com/Penedov)
+- Email: **penedovinicius03@gmail.com**
+
+---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Penedov&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
 
----
-
-## 🌱 Currently Learning
-
-```
-📌 Next.js         ████████░░  80%
-📌 Power BI        ██████░░░░  60%
-📌 Algorithms      ███████░░░  70%
-```
-
----
-
-## 📬 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-penedo-638067262/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Viniciuspenedo2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/penedo-v)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 *"I'm not a programmer... but I will be soon."* 😄
-
-*— Vinicius Penedo, currently proving himself wrong one commit at a time*
+**Learning, building and improving one commit at a time.**
 
 </div>
