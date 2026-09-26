@@ -139,7 +139,8 @@ Beyond coding, I value **problem solving, organization, communication and contin
 
 </div>
 
-### 📚 `Algoritmos-Java`
+### 📚 `Java_Studies
+`
 Repository focused on practicing **Java, programming logic and algorithms** through academic exercises and study activities.
 
 ### 🌐 `portfolio_vini`
